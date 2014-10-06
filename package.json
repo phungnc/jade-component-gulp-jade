@@ -1,0 +1,15 @@
+{
+  "name": "jade-component",
+  "version": "1.0.0",
+  "description": "the demo of creating HTML from many component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-jade": "^0.8.0"
+  }
+}

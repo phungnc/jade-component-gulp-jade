@@ -1,0 +1,57 @@
+body {
+  font-family: 'Georgia';
+  color: #444;
+}
+header {
+  font-family: 'Quicksand';
+  padding: 10px 10px;
+  color: #000;
+  font-size: 18px;
+  text-align: center;
+  border-bottom: 1px solid #000;
+}
+.container {
+  width: 510px;
+  margin: 50px auto;
+  overflow: hidden;
+}
+.main-content {
+  float: left;
+  width: 300px;
+  border: 1px solid #999;
+}
+.main-content p {
+  margin-bottom: 20px;
+}
+.sidebar {
+  float: left;
+  width: 200px;
+}
+.sidebar .widget {
+  border: 1px solid #999;
+  margin-left: 20px;
+}
+.sidebar .widget h1 {
+  font-family: 'Quicksand';
+  margin: 13px 10px 4px;
+  padding-bottom: 10px;
+  border-bottom: 1px dotted #ddd;
+  -webkit-border-radius: 2px 2px 0px 0px;
+  border-radius: 2px 2px 0px 0px;
+  margin-bottom: 10px;
+}
+.sidebar .widget p {
+  font-size: 13px;
+  padding: 0px 10px;
+  margin-bottom: 10px;
+}
+p {
+  line-height: 1.8;
+}
+footer {
+  margin: 50px auto;
+  border-top: 1px solid #999;
+  padding-top: 5px;
+  font-size: 18px;
+  text-align: center;
+}
